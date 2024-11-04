@@ -112,7 +112,7 @@
 
   (footprint "Resistor_SMD:R_0805_2012Metric" (layer "F.Cu")
     (tstamp 01cdb109-6d58-4271-9eb2-5f555fff590c)
-    (at 83.77 48.3375 90)
+    (at 85.8 48.3375 90)
     (descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Sheetfile" "LiPo_BuckBoost_Charger.kicad_sch")
@@ -227,7 +227,7 @@
 
   (footprint "Resistor_SMD:R_0805_2012Metric" (layer "F.Cu")
     (tstamp 1fce2b1b-5cb7-422a-b778-511d8a14740d)
-    (at 115.025 51.19 180)
+    (at 114.3 51.19 180)
     (descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Sheetfile" "LiPo_BuckBoost_Charger.kicad_sch")
@@ -281,7 +281,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "F.Cu")
     (tstamp 216e7031-1ec9-4d9b-aa8e-2e6548246eaf)
-    (at 89.25 35.5 180)
+    (at 88.265 35.5 180)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Sheetfile" "LiPo_BuckBoost_Charger.kicad_sch")
@@ -335,7 +335,7 @@
 
   (footprint "Package_SO:SOP-8_3.76x4.96mm_P1.27mm" (layer "F.Cu")
     (tstamp 26eca76b-e471-45f7-9254-a333d6145dc4)
-    (at 88.75 29.75 90)
+    (at 87.765 29.75 90)
     (descr "SOP, 8 Pin (https://ww2.minicircuits.com/case_style/XX211.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py")
     (tags "SOP SO")
     (property "Sheetfile" "LiPo_BuckBoost_Charger.kicad_sch")
@@ -405,7 +405,7 @@
 
   (footprint "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm" (layer "F.Cu")
     (tstamp 27cb5778-27a1-43a2-bd02-2690d3585559)
-    (at 89.75 52.16 90)
+    (at 91.78 52.16 90)
     (descr "SMD Solder Jumper, 1x1.5mm Triangular Pads, 0.3mm gap, open")
     (tags "solder jumper open")
     (property "Sheetfile" "LiPo_BuckBoost_Charger.kicad_sch")
@@ -470,7 +470,7 @@
 
   (footprint "Resistor_SMD:R_0805_2012Metric" (layer "F.Cu")
     (tstamp 297eef4b-7cf3-4188-8971-a1746e57c7a3)
-    (at 117.7375 37.6025 -90)
+    (at 116.2625 37.6025 -90)
     (descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Sheetfile" "LiPo_BuckBoost_Charger.kicad_sch")
@@ -524,7 +524,7 @@
 
   (footprint "Resistor_SMD:R_0805_2012Metric" (layer "F.Cu")
     (tstamp 2c89dd99-2222-4409-b710-7b061da2e048)
-    (at 82.75 32.25)
+    (at 82.0625 32.25)
     (descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Sheetfile" "LiPo_BuckBoost_Charger.kicad_sch")
@@ -578,7 +578,7 @@
 
   (footprint "Diode_SMD:D_0805_2012Metric" (layer "F.Cu")
     (tstamp 2fd7d936-ff3c-4b26-a82e-ced1548f5e10)
-    (at 77.25 27.6875 90)
+    (at 76.265 27.6875 90)
     (descr "Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "diode")
     (property "DNF" "")
@@ -638,7 +638,7 @@
 
   (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder" (layer "F.Cu")
     (tstamp 31443c7e-fe86-4bba-a8dd-10adbe9a816c)
-    (at 97.3625 33.5 180)
+    (at 96.3775 33.5 180)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Sheetfile" "LiPo_BuckBoost_Charger.kicad_sch")
@@ -692,7 +692,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric" (layer "F.Cu")
     (tstamp 3f172251-09f8-4fb7-8d2c-d95c4af7679a)
-    (at 109.8 54.25 180)
+    (at 109.075 54.25 180)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "LiPo_BuckBoost_Charger.kicad_sch")
@@ -746,7 +746,7 @@
 
   (footprint "Resistor_SMD:R_0805_2012Metric" (layer "F.Cu")
     (tstamp 3f80efa6-7f8d-483b-984a-635cec90d6ff)
-    (at 89.25 40.75 -90)
+    (at 88.265 40.75 -90)
     (descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Sheetfile" "LiPo_BuckBoost_Charger.kicad_sch")
@@ -800,7 +800,7 @@
 
   (footprint "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm" (layer "F.Cu")
     (tstamp 40773c01-495f-4949-a7e2-cab96e206d81)
-    (at 83.75 52.16 90)
+    (at 85.78 52.16 90)
     (descr "SMD Solder Jumper, 1x1.5mm Triangular Pads, 0.3mm gap, open")
     (tags "solder jumper open")
     (property "Sheetfile" "LiPo_BuckBoost_Charger.kicad_sch")
@@ -865,7 +865,7 @@
 
   (footprint "Capacitor_SMD:C_1206_3216Metric" (layer "F.Cu")
     (tstamp 476aff56-9e25-49ae-8575-18acd1dfee0c)
-    (at 109.525 40.5 180)
+    (at 108.8 40.5 180)
     (descr "Capacitor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "LiPo_BuckBoost_Charger.kicad_sch")
@@ -987,7 +987,7 @@
 
   (footprint "Package_SO:TSSOP-8_4.4x3mm_P0.65mm" (layer "F.Cu")
     (tstamp 5364488e-91d5-407b-848f-d66c0ba0c42f)
-    (at 102.5 36.75 -90)
+    (at 101.515 36.75 -90)
     (descr "TSSOP, 8 Pin (JEDEC MO-153 Var AA https://www.jedec.org/document_search?search_api_views_fulltext=MO-153), generated with kicad-footprint-generator ipc_gullwing_generator.py")
     (tags "TSSOP SO")
     (property "Sheetfile" "LiPo_BuckBoost_Charger.kicad_sch")
@@ -1057,7 +1057,7 @@
 
   (footprint "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm" (layer "F.Cu")
     (tstamp 55d4d867-dba4-4878-987f-09fdd537653e)
-    (at 92.75 52.16 90)
+    (at 94.78 52.16 90)
     (descr "SMD Solder Jumper, 1x1.5mm Triangular Pads, 0.3mm gap, open")
     (tags "solder jumper open")
     (property "Sheetfile" "LiPo_BuckBoost_Charger.kicad_sch")
@@ -1120,9 +1120,39 @@
       ) (tstamp f62fc2ee-bfb8-4191-b8c1-7a258b9e23e9))
   )
 
+  (footprint "MountingHole:MountingHole_3.2mm_M3_DIN965_Pad" (layer "F.Cu")
+    (tstamp 5afd1cb4-5a25-46ad-8182-fbbf82418f1b)
+    (at 74.2 50.1)
+    (descr "Mounting Hole 3.2mm, M3, DIN965")
+    (tags "mounting hole 3.2mm m3 din965")
+    (property "Sheetfile" "LiPo_BuckBoost_Charger.kicad_sch")
+    (property "Sheetname" "")
+    (property "ki_description" "Mounting Hole without connection")
+    (property "ki_keywords" "mounting hole")
+    (path "/16ac0dab-da74-4e54-ace8-089952ece027")
+    (attr exclude_from_pos_files)
+    (fp_text reference "H2" (at 0 -3.8) (layer "F.SilkS") hide
+        (effects (font (size 1 1) (thickness 0.15)))
+      (tstamp 70c60db2-877f-411a-b41a-45b9dc35e42b)
+    )
+    (fp_text value "MountingHole" (at 0 3.8) (layer "F.Fab")
+        (effects (font (size 1 1) (thickness 0.15)))
+      (tstamp 9d10928f-c274-4fff-9047-23a1f3262800)
+    )
+    (fp_text user "${REFERENCE}" (at 0 0) (layer "F.Fab")
+        (effects (font (size 1 1) (thickness 0.15)))
+      (tstamp a2eda79f-1374-4dfd-818c-0c1c9be5e95b)
+    )
+    (fp_circle (center 0 0) (end 2.8 0)
+      (stroke (width 0.15) (type solid)) (fill none) (layer "Cmts.User") (tstamp 1b5af709-220f-4cea-8da1-1aef88f09d46))
+    (fp_circle (center 0 0) (end 3.05 0)
+      (stroke (width 0.05) (type solid)) (fill none) (layer "F.CrtYd") (tstamp 9b7a0615-c2d1-4626-a596-0401698f169d))
+    (pad "1" thru_hole circle (at 0 0) (size 5.6 5.6) (drill 3.2) (layers "*.Cu" "*.Mask") (tstamp bc9d181b-7a4b-4e40-8037-1f2c31769ed8))
+  )
+
   (footprint "Resistor_SMD:R_0805_2012Metric" (layer "F.Cu")
     (tstamp 5b2a0c63-99fd-4f0c-b943-176f8a4bfe45)
-    (at 80.72 48.3375 90)
+    (at 82.75 48.3375 90)
     (descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Sheetfile" "LiPo_BuckBoost_Charger.kicad_sch")
@@ -1176,7 +1206,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric" (layer "F.Cu")
     (tstamp 5e81f7e1-8c87-47d6-90b0-0876745d8b59)
-    (at 109.8 51.25 180)
+    (at 109.075 51.25 180)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "LiPo_BuckBoost_Charger.kicad_sch")
@@ -1230,7 +1260,7 @@
 
   (footprint "Resistor_SMD:R_0805_2012Metric" (layer "F.Cu")
     (tstamp 6b2ad564-ccf6-4c80-b44c-2e753c06c805)
-    (at 92.72 48.35 90)
+    (at 94.75 48.35 90)
     (descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Sheetfile" "LiPo_BuckBoost_Charger.kicad_sch")
@@ -1284,7 +1314,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "F.Cu")
     (tstamp 79f55584-9d2b-4a28-8d1d-0bca8eb67492)
-    (at 93.75 28 -90)
+    (at 92.765 28 -90)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Sheetfile" "LiPo_BuckBoost_Charger.kicad_sch")
@@ -1338,7 +1368,7 @@
 
   (footprint "Resistor_SMD:R_0805_2012Metric" (layer "F.Cu")
     (tstamp 7bd667e4-8181-45eb-8af7-9a7a72cdc399)
-    (at 115.025 41.44)
+    (at 114.3 41.44)
     (descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Sheetfile" "LiPo_BuckBoost_Charger.kicad_sch")
@@ -1392,7 +1422,7 @@
 
   (footprint "Resistor_SMD:R_0805_2012Metric" (layer "F.Cu")
     (tstamp 7eaf6fa5-2862-480f-9987-789c01930949)
-    (at 97.25 41 180)
+    (at 96.265 41 180)
     (descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Sheetfile" "LiPo_BuckBoost_Charger.kicad_sch")
@@ -1446,7 +1476,7 @@
 
   (footprint "Diode_SMD:D_0805_2012Metric" (layer "F.Cu")
     (tstamp 81d461c8-2fca-48fa-9d1c-cfd053dda0ce)
-    (at 74 27.6875 90)
+    (at 73.015 27.6875 90)
     (descr "Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "diode")
     (property "DNF" "")
@@ -1506,7 +1536,7 @@
 
   (footprint "Capacitor_SMD:C_1206_3216Metric" (layer "F.Cu")
     (tstamp 85c7ade5-1ac5-44bc-9f98-5ae5daeec9bd)
-    (at 109.525 43.5 180)
+    (at 108.8 43.5 180)
     (descr "Capacitor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "LiPo_BuckBoost_Charger.kicad_sch")
@@ -1560,7 +1590,7 @@
 
   (footprint "Capacitor_SMD:C_1206_3216Metric" (layer "F.Cu")
     (tstamp 86a0ebaf-b580-46a3-8985-a8d09dc0d15b)
-    (at 109.525 31.5 180)
+    (at 108.8 31.5 180)
     (descr "Capacitor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "LiPo_BuckBoost_Charger.kicad_sch")
@@ -1614,7 +1644,7 @@
 
   (footprint "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm" (layer "F.Cu")
     (tstamp 88c0fce9-66f8-4139-83dd-7952e0e8d683)
-    (at 77.75 52.16 90)
+    (at 79.78 52.16 90)
     (descr "SMD Solder Jumper, 1x1.5mm Triangular Pads, 0.3mm gap, open")
     (tags "solder jumper open")
     (property "Sheetfile" "LiPo_BuckBoost_Charger.kicad_sch")
@@ -1679,7 +1709,7 @@
 
   (footprint "Resistor_SMD:R_0805_2012Metric" (layer "F.Cu")
     (tstamp 8a0cd233-14d1-4177-8fec-2ffc3bd24a4f)
-    (at 86.77 48.35 90)
+    (at 88.8 48.35 90)
     (descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Sheetfile" "LiPo_BuckBoost_Charger.kicad_sch")
@@ -1733,7 +1763,7 @@
 
   (footprint "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical" (layer "F.Cu")
     (tstamp 90b5b844-801e-4660-a767-709e0e4beede)
-    (at 97.5 27.5 -90)
+    (at 96.515 27.5 -90)
     (descr "Through hole straight pin header, 1x01, 2.54mm pitch, single row")
     (tags "Through hole pin header THT 1x01 2.54mm single row")
     (property "Sheetfile" "LiPo_BuckBoost_Charger.kicad_sch")
@@ -1795,7 +1825,7 @@
 
   (footprint "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm" (layer "F.Cu")
     (tstamp 9e6ba095-7ded-40c8-979e-a506acdc7a29)
-    (at 114.525 32 -90)
+    (at 112.975 31.8 -90)
     (descr "SMD Solder Jumper, 1x1.5mm Triangular Pads, 0.3mm gap, open")
     (tags "solder jumper open")
     (property "Sheetfile" "LiPo_BuckBoost_Charger.kicad_sch")
@@ -1860,7 +1890,7 @@
 
   (footprint "Resistor_SMD:R_0805_2012Metric" (layer "F.Cu")
     (tstamp a0338859-4d2a-41fc-a188-fb404fbe0fdc)
-    (at 114.2375 37.6025 -90)
+    (at 112.9875 37.6025 -90)
     (descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Sheetfile" "LiPo_BuckBoost_Charger.kicad_sch")
@@ -1914,7 +1944,7 @@
 
   (footprint "Connector_JST:JST_PH_B2B-PH-K_1x02_P2.00mm_Vertical" (layer "F.Cu")
     (tstamp a03eaf98-967e-43c0-a808-6c01c3d5e088)
-    (at 121.25 46.25 -90)
+    (at 121 45.7 -90)
     (descr "JST PH series connector, B2B-PH-K (http://www.jst-mfg.com/product/pdf/eng/ePH.pdf), generated with kicad-footprint-generator")
     (tags "connector JST PH side entry")
     (property "Sheetfile" "LiPo_BuckBoost_Charger.kicad_sch")
@@ -2019,7 +2049,7 @@
 
   (footprint "Resistor_SMD:R_0805_2012Metric" (layer "F.Cu")
     (tstamp a541a56c-542e-4e75-af97-263f0705cfe0)
-    (at 83.5 27.6875 90)
+    (at 82.515 27.6875 90)
     (descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Sheetfile" "LiPo_BuckBoost_Charger.kicad_sch")
@@ -2073,7 +2103,7 @@
 
   (footprint "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical" (layer "F.Cu")
     (tstamp a5cbadd0-c5d9-4111-b234-f4f632ced85a)
-    (at 108 27.5 -90)
+    (at 107.015 27.5 -90)
     (descr "Through hole straight pin header, 1x01, 2.54mm pitch, single row")
     (tags "Through hole pin header THT 1x01 2.54mm single row")
     (property "Sheetfile" "LiPo_BuckBoost_Charger.kicad_sch")
@@ -2135,7 +2165,7 @@
 
   (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder" (layer "F.Cu")
     (tstamp a639cd87-150b-4769-bb3f-7f1e0e50720d)
-    (at 115.525 45 90)
+    (at 114.8 45 90)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Sheetfile" "LiPo_BuckBoost_Charger.kicad_sch")
@@ -2189,7 +2219,7 @@
 
   (footprint "Package_TO_SOT_SMD:SOT-23-6" (layer "F.Cu")
     (tstamp ab1a3c95-54c9-4c8b-8214-75c06cf6b7d6)
-    (at 97.3625 36.8875 90)
+    (at 96.3775 36.8875 90)
     (descr "SOT, 6 Pin (https://www.jedec.org/sites/default/files/docs/Mo-178c.PDF variant AB), generated with kicad-footprint-generator ipc_gullwing_generator.py")
     (tags "SOT TO_SOT_SMD")
     (property "Sheetfile" "LiPo_BuckBoost_Charger.kicad_sch")
@@ -2255,7 +2285,7 @@
 
   (footprint "Resistor_SMD:R_0805_2012Metric" (layer "F.Cu")
     (tstamp ac30464f-e199-47bf-9de9-402f9606c616)
-    (at 82.75 35)
+    (at 82.0625 35)
     (descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Sheetfile" "LiPo_BuckBoost_Charger.kicad_sch")
@@ -2309,7 +2339,7 @@
 
   (footprint "Capacitor_SMD:C_1206_3216Metric" (layer "F.Cu")
     (tstamp ad94a89f-ff5c-4d14-a767-7bdc1b3d05c0)
-    (at 109.5 34.5 180)
+    (at 108.775 34.5 180)
     (descr "Capacitor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "LiPo_BuckBoost_Charger.kicad_sch")
@@ -2363,7 +2393,7 @@
 
   (footprint "TPS63020:QFN14-3X4MM" (layer "F.Cu")
     (tstamp bb2c620f-0de2-41d7-b079-a23f1ab9922d)
-    (at 111.2375 47.44 -90)
+    (at 110.5125 47.44 -90)
     (property "Sheetfile" "LiPo_BuckBoost_Charger.kicad_sch")
     (property "Sheetname" "")
     (path "/85a48b9f-72b6-4a22-975b-a455b00219c3")
@@ -2484,7 +2514,7 @@
 
   (footprint "Resistor_SMD:R_0805_2012Metric" (layer "F.Cu")
     (tstamp bb3c3830-1c4c-43d3-9331-c851c915f6b9)
-    (at 89.77 48.35 90)
+    (at 91.8 48.35 90)
     (descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Sheetfile" "LiPo_BuckBoost_Charger.kicad_sch")
@@ -2538,7 +2568,7 @@
 
   (footprint "Resistor_SMD:R_0805_2012Metric" (layer "F.Cu")
     (tstamp bde5ed48-852e-443f-874b-10311801f622)
-    (at 97.3625 31.25 180)
+    (at 96.3775 31.25 180)
     (descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Sheetfile" "LiPo_BuckBoost_Charger.kicad_sch")
@@ -2592,7 +2622,7 @@
 
   (footprint "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm" (layer "F.Cu")
     (tstamp bf23224b-e153-46ab-95c0-8b4c3009e23d)
-    (at 118.025 32 -90)
+    (at 116.25 31.8 -90)
     (descr "SMD Solder Jumper, 1x1.5mm Triangular Pads, 0.3mm gap, open")
     (tags "solder jumper open")
     (property "Sheetfile" "LiPo_BuckBoost_Charger.kicad_sch")
@@ -2657,7 +2687,7 @@
 
   (footprint "Resistor_SMD:R_0805_2012Metric" (layer "F.Cu")
     (tstamp c7ad9a14-36ae-462a-bd76-2ea4740412a8)
-    (at 80.25 27.6875 90)
+    (at 79.265 27.6875 90)
     (descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Sheetfile" "LiPo_BuckBoost_Charger.kicad_sch")
@@ -2711,7 +2741,7 @@
 
   (footprint "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical" (layer "F.Cu")
     (tstamp caa989d0-457d-4cfd-b86f-c3e11ff7940e)
-    (at 121.29 41.5 180)
+    (at 121.04 40.95 180)
     (descr "Through hole straight pin header, 1x01, 2.54mm pitch, single row")
     (tags "Through hole pin header THT 1x01 2.54mm single row")
     (property "Sheetfile" "LiPo_BuckBoost_Charger.kicad_sch")
@@ -2773,7 +2803,7 @@
 
   (footprint "Connector_JST:JST_PH_B2B-PH-K_1x02_P2.00mm_Vertical" (layer "F.Cu")
     (tstamp d14f4de9-72a3-4a1e-8c71-646925b36ef7)
-    (at 101.75 27.75)
+    (at 100.765 27.75)
     (descr "JST PH series connector, B2B-PH-K (http://www.jst-mfg.com/product/pdf/eng/ePH.pdf), generated with kicad-footprint-generator")
     (tags "connector JST PH side entry")
     (property "Sheetfile" "LiPo_BuckBoost_Charger.kicad_sch")
@@ -2878,7 +2908,7 @@
 
   (footprint "Custom:Combined CD43 + L 6.3x6.3" (layer "F.Cu")
     (tstamp dd47cce2-675d-48af-803b-317c3c4650b6)
-    (at 99.75 48.25 180)
+    (at 101.4 47.4 180)
     (property "Sheetfile" "LiPo_BuckBoost_Charger.kicad_sch")
     (property "Sheetname" "")
     (property "ki_description" "Inductor")
@@ -2941,11 +2971,16 @@
       (net 24 "Net-(L1-Pad2)") (pinfunction "2") (pintype "passive") (thermal_bridge_angle 45) (tstamp ae379f8a-2377-4cc3-bcac-b349ce02d1bd))
     (pad "2" smd rect (at 0.048852 2.95 90) (size 1.1 2.4) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 24 "Net-(L1-Pad2)") (pinfunction "2") (pintype "passive") (tstamp a97636ae-ace0-4788-bec4-5c7ee46c75c1))
+    (model "${KICAD7_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Bourns_SRN6045TA.wrl"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 90))
+    )
   )
 
   (footprint "Capacitor_SMD:C_1206_3216Metric" (layer "F.Cu")
     (tstamp df8ae3b4-00af-459b-9fd6-83445387b0d9)
-    (at 109.525 37.5 180)
+    (at 108.8 37.5 180)
     (descr "Capacitor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "LiPo_BuckBoost_Charger.kicad_sch")
@@ -2997,9 +3032,39 @@
     )
   )
 
+  (footprint "MountingHole:MountingHole_3.2mm_M3_DIN965_Pad" (layer "F.Cu")
+    (tstamp e71d167d-6eea-49b9-abf8-f42973b94f56)
+    (at 120.7 28.3)
+    (descr "Mounting Hole 3.2mm, M3, DIN965")
+    (tags "mounting hole 3.2mm m3 din965")
+    (property "Sheetfile" "LiPo_BuckBoost_Charger.kicad_sch")
+    (property "Sheetname" "")
+    (property "ki_description" "Mounting Hole without connection")
+    (property "ki_keywords" "mounting hole")
+    (path "/2c45c724-4114-463c-b0fb-13f9cf0ff343")
+    (attr exclude_from_pos_files)
+    (fp_text reference "H1" (at 0 -3.8) (layer "F.SilkS") hide
+        (effects (font (size 1 1) (thickness 0.15)))
+      (tstamp 1ac3037e-f4c7-41f2-ac71-ef8e70e2f1e4)
+    )
+    (fp_text value "MountingHole" (at 0 3.8) (layer "F.Fab")
+        (effects (font (size 1 1) (thickness 0.15)))
+      (tstamp 63b235a2-2b0a-4ea1-a4ea-aa7e534aed36)
+    )
+    (fp_text user "${REFERENCE}" (at 0 0) (layer "F.Fab")
+        (effects (font (size 1 1) (thickness 0.15)))
+      (tstamp ca1b122c-4758-491c-9f69-9a7c65ff4e0f)
+    )
+    (fp_circle (center 0 0) (end 2.8 0)
+      (stroke (width 0.15) (type solid)) (fill none) (layer "Cmts.User") (tstamp fe0a5698-8a31-43d0-99c3-7e8e893cfba6))
+    (fp_circle (center 0 0) (end 3.05 0)
+      (stroke (width 0.05) (type solid)) (fill none) (layer "F.CrtYd") (tstamp e084d579-5ceb-474a-a4e5-c75eca442e95))
+    (pad "1" thru_hole circle (at 0 0) (size 5.6 5.6) (drill 3.2) (layers "*.Cu" "*.Mask") (tstamp bf9a644f-f519-4c33-9803-ce8bfd8abf22))
+  )
+
   (footprint "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm" (layer "F.Cu")
     (tstamp f1b37527-7b40-49b6-8b9b-8205710bfaf6)
-    (at 86.75 52.16 90)
+    (at 88.78 52.16 90)
     (descr "SMD Solder Jumper, 1x1.5mm Triangular Pads, 0.3mm gap, open")
     (tags "solder jumper open")
     (property "Sheetfile" "LiPo_BuckBoost_Charger.kicad_sch")
@@ -3064,7 +3129,7 @@
 
   (footprint "Resistor_SMD:R_0805_2012Metric" (layer "F.Cu")
     (tstamp f24db11b-2826-40e2-b101-94b5e9d4a535)
-    (at 77.77 48.3375 90)
+    (at 79.8 48.3375 90)
     (descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Sheetfile" "LiPo_BuckBoost_Charger.kicad_sch")
@@ -3118,7 +3183,7 @@
 
   (footprint "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical" (layer "F.Cu")
     (tstamp fd8db8c6-b6ef-4eb3-ba04-11026d48395f)
-    (at 121.29 53 180)
+    (at 121.04 52.45 180)
     (descr "Through hole straight pin header, 1x01, 2.54mm pitch, single row")
     (tags "Through hole pin header THT 1x01 2.54mm single row")
     (property "Sheetfile" "LiPo_BuckBoost_Charger.kicad_sch")
@@ -3180,7 +3245,7 @@
 
   (footprint "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm" (layer "F.Cu")
     (tstamp fde405d4-3ce8-4926-9862-6403788548e2)
-    (at 80.75 52.16 90)
+    (at 82.78 52.16 90)
     (descr "SMD Solder Jumper, 1x1.5mm Triangular Pads, 0.3mm gap, open")
     (tags "solder jumper open")
     (property "Sheetfile" "LiPo_BuckBoost_Charger.kicad_sch")
