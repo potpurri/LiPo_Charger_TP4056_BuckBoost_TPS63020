@@ -25,19 +25,20 @@ The charging current of the TP4056 can be adjusted using solder jumpers on the P
 ## Images
 
 ### Schematic
-![Schematic](imgs/schematic_v1.1.pdf)
+![Schematic](imgs/schematic_v1.2.pdf)
 
 ### 3D Renderings
-- Front View: ![3D Front](imgs/3d-front-v1.1.png)
-- Back View: ![3D Back](imgs/3d-back-v1.1.png)
+- Front View: ![3D Front](imgs/3d-front.png)
+- Front View Without Components: ![3D Front](imgs/3d-front-empty.png)
+- Back View: ![3D Back](imgs/3d-back.png)
 
 ### PCB
 **4-Layer Stackup**: Signal Layer, GND Layer, Power Layer, Signal Layer
-- All layers: ![PCB - All Layers](imgs/pcb_v1.1.png)
-- Front traces: ![PCB - Front](imgs/pcb-front_v1.1.png)
-- GND plane: ![PCB - GND](imgs/pcb-gnd_v1.1.png)
-- PWR plane: ![PCB - PWR](imgs/pcb-pwr_v1.1.png)
-- Back traces: ![PCB - Back](imgs/pcb-back_v1.1.png)
+- All layers: ![PCB - All Layers](imgs/pcb.png)
+- Front traces: ![PCB - Front](imgs/pcb-front.png)
+- GND plane: ![PCB - GND](imgs/pcb-gnd.png)
+- PWR plane: ![PCB - PWR](imgs/pcb-pwr.png)
+- Back traces: ![PCB - Back](imgs/pcb-back.png)
 
 ## Usage
 
