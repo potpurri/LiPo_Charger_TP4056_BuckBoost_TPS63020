@@ -49,7 +49,7 @@ The charging current of the TP4056 can be adjusted using solder jumpers on the P
 3. **Connect Battery**: Connect the lithium-ion cell to the battery terminals.
 4. **Power Input**: Provide power via the charging input, and the circuit will manage safe charging for the battery and maintain output stability.
 5. **Fuse Protection**: Ensure the fuse is correctly in place for additional battery safety.
-6. **USB-C Charging**: When the USB-C port is connected, the battery is safely disconnected from the load, and power is supplied through a Schottky diode.
+6. **Battery disconnection during charging**: When the USB-C port is connected, the battery is safely disconnected from the load, and power is instead supplied to it from VBUS through a Schottky diode .
 
 ---
 
