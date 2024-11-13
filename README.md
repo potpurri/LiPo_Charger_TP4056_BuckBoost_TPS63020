@@ -9,7 +9,7 @@ This PCB is designed to safely charge a lithium-ion cell and provide a selectabl
 - **Buck-Boost Converter**: TPS63020 for stable 3.3V or 5V output, selectable via solder jumper.
 - **Compact Design**: Ideal for portable applications, with both top and bottom images of the board for easy identification.
 - **Fuse Protection**: Added fuse for enhanced safety of the battery connection.
-- **USB-C Integration**: When the USB-C port is connected for charging, the battery is disconnected from the load via two p-channel MOSFETs in series, with the gates tied to VBUS of the USB-C input. Power is provided to the circuit using a Schottky diode during charging.
+- **Battery disconnection during charging**: When the USB-C port is connected for charging, the battery is disconnected from the load via two p-channel MOSFETs in series, with the gates tied to VBUS of the USB-C input. Power is provided to the circuit using a Schottky diode during charging. This circuit can be bypassed using the solder jumper on the bottom side of the PCB.
 
 ## Charging Current Settings
 

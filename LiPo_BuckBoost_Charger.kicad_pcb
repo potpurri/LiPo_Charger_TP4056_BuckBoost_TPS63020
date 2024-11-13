@@ -15825,7 +15825,7 @@
   (gr_text "B-" (at 108.2 27.25) (layer "F.SilkS") (tstamp fe6b1cac-142b-492d-b4ef-26619e2aedfb)
     (effects (font (size 0.8 0.8) (thickness 0.15) bold) (justify left bottom))
   )
-  (gr_text "Potpurri\nTP4056 LiPo Charger with\nTPS63020 Buck-Boost Converter\nVersion 1.2" (at 97.3328 54.3052) (layer "B.Mask") (tstamp 50a0ff83-dea5-4964-bad3-838405947cde)
+  (gr_text "Potpurri\nTP4056 LiPo Charger with\nTPS63020 Buck-Boost Converter\nVersion 1.3" (at 97.3328 54.3052) (layer "B.Mask") (tstamp 50a0ff83-dea5-4964-bad3-838405947cde)
     (effects (font (size 0.7 0.7) (thickness 0.15) bold) (justify left bottom mirror))
   )
 
