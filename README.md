@@ -9,7 +9,7 @@ This PCB is designed to safely charge a lithium-ion cell and provide a selectabl
 - **Buck-Boost Converter**: TPS63020 for stable 3.3V or 5V output, selectable via solder jumper.
 - **Compact Design**: Ideal for portable applications, with both top and bottom images of the board for easy identification.
 - **Fuse Protection**: Added fuse for enhanced safety of the battery connection.
-- **Battery disconnection during charging**: When the USB-C port is connected for charging, the battery is disconnected from the load via two p-channel MOSFETs in series, with the gates tied to VBUS of the USB-C input. Power is provided to the circuit using a Schottky diode during charging. This circuit can be bypassed using the solder jumper on the bottom side of the PCB.
+- **Battery disconnection during charging**: When the USB-C port is connected for charging, the battery is disconnected from the Buck-Boost converter via two p-channel MOSFETs in series, with the gates tied to VBUS of the USB-C input. Power is instead provided to the Buck-Boost converter using a Schottky diode during charging. This circuit can be bypassed using the solder jumper on the bottom side of the PCB.
 
 ## Charging Current Settings
 
@@ -49,7 +49,7 @@ The charging current of the TP4056 can be adjusted using solder jumpers on the P
 3. **Connect Battery**: Connect the lithium-ion cell to the battery terminals.
 4. **Power Input**: Provide power via the charging input, and the circuit will manage safe charging for the battery and maintain output stability.
 5. **Fuse Protection**: Ensure the fuse is correctly in place for additional battery safety.
-6. **Battery disconnection during charging**: When the USB-C port is connected, the battery is safely disconnected from the load, and power is instead supplied to it from VBUS through a Schottky diode .
+6. **Battery disconnection during charging**: When the USB-C port is connected, the battery is safely disconnected from the Buck-Boost converter, and power is instead supplied to it from VBUS through a Schottky diode.
 
 ---
 
