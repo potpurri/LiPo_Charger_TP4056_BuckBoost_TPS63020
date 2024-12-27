@@ -27,7 +27,7 @@ The charging current of the TP4056 can be adjusted using solder jumpers on the P
 ## Images
 
 ### Schematic
-![Schematic](imgs/schematic_v1.3.pdf)
+![Schematic](imgs/schematic-v1.3.pdf)
 
 ### 3D Renderings
 - Front View: ![3D Front](imgs/3d-front.png)
